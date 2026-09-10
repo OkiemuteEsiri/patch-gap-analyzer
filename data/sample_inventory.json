@@ -1,0 +1,6 @@
+[
+  {"asset_id":"web-01","cve":"CVE-2026-12001","severity":"critical","cvss":9.8,"patch_available":"2026-06-15","detected":"2026-06-16","installed":null,"internet_exposed":true,"kev":true,"criticality":5,"owner":"Web Platform","exception_until":null},
+  {"asset_id":"db-02","cve":"CVE-2026-11820","severity":"high","cvss":8.2,"patch_available":"2026-07-10","detected":"2026-07-11","installed":null,"internet_exposed":false,"kev":false,"criticality":5,"owner":"Database Engineering","exception_until":"2026-09-30"},
+  {"asset_id":"laptop-14","cve":"CVE-2026-10555","severity":"medium","cvss":6.5,"patch_available":"2026-08-01","detected":"2026-08-03","installed":"2026-08-20","internet_exposed":false,"kev":false,"criticality":2,"owner":"Endpoint Engineering","exception_until":null},
+  {"asset_id":"api-03","cve":"CVE-2026-11991","severity":"high","cvss":8.8,"patch_available":"2026-07-01","detected":"2026-07-01","installed":null,"internet_exposed":true,"kev":false,"criticality":4,"owner":"API Platform","exception_until":null}
+]
